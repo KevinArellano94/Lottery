@@ -31,7 +31,7 @@ def megaSena():
     loop(_games, _rows, _columns, _range)
     
 def lotoFacil():
-    _games = 1; _rows = 4; _columns = 15; _range = 60
+    _games = 1; _rows = 4; _columns = 15; _range = 25
     print(f'LOTO FACIL')
     loop(_games, _rows, _columns, _range)
     
@@ -41,7 +41,7 @@ def lotoMania():
     loop(_games, _rows, _columns, _range)
     
 def quiNa():
-    _games = 1; _rows = 4; _columns = 5; _range = 99
+    _games = 1; _rows = 4; _columns = 5; _range = 80
     print(f'QUI NA')
     loop(_games, _rows, _columns, _range)
     
